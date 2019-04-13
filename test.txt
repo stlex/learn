@@ -1,5 +1,10 @@
 1 Hello git branch
 new line
 line 3
+<<<<<<< HEAD
 123 456
 test rebase
+=======
+123
+ups
+>>>>>>> Commit - 4
